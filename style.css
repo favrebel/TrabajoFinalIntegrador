@@ -102,7 +102,7 @@ body{
 	font-family: 'Montserrat', sans-serif;
 	padding: 25px;
 	text-align: center;
-	width: 450px;	
+	width: 400px;	
 	margin: auto;
 	max-width: 100%;
 	margin-top: 30px;
@@ -146,7 +146,8 @@ body{
 .f-i .f-l{
 	display: block;
 	width: 100%;
-	font-size: 20px;
+	font-size: 25px;
+	justify-self: auto;
 }
 
 .f-i{
@@ -167,9 +168,9 @@ body{
 }
 
 .f-l{
-	padding-left: 15px;
+	padding-left: 20px;
 	position: absolute;
-	margin-left: -235px;
+	margin-left: -215px;
 	margin-top: 16px;
 	z-index: -20;
 	color: rgba(0, 0, 0, .8);
